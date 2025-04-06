@@ -1,6 +1,6 @@
 let accessToken;
 const clientId = process.env.REACT_APP_SPOTIFY_CLIENT_ID;
-const redirectUri = 'http://localhost:3000';
+const redirectUri = process.env.REACT_APP_REDIRECT_URI || 'http://localhost:3000';
 
 const Spotify = {
   getAccessToken() {
