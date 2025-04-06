@@ -1900,4 +1900,5 @@ This will only work for locales that have been explicitly imported before.
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
 #   m u s e t u n e s  
+ #   m u s e t u n e s  
  
